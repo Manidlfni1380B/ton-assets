@@ -99,6 +99,7 @@ Name           | Address
 [Alliance](https://tonviewer.com/0:3a3594e565b371d7ddafd0d763a3a6a5c484408b212a0caa87a79474515330e4) | EQA6NZTlZbNx192v0Ndjo6alxIRAiyEqDKqHp5R0UVMw5ANv
 [AltOOshka](https://tonviewer.com/0:ece3f316991c9298f6ec5ba33267c0f2fa4f818b4bd934d495b7a2c4d8b0bf75) | EQDs4_MWmRySmPbsW6MyZ8Dy-k-Bi0vZNNSVt6LE2LC_ddUP
 [Ambra](https://tonviewer.com/0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49) | EQCcLAW537KnRg_aSPrnQJoyYjOZkzqYp6FVmRUvN1crSazV
+[Amocucinare](https://tonviewer.com/0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f) | EQC7js8NLX3v57ZuRmuusNtMSBdki4va_qyL7sAwdmosf_xK
 [Andy](https://tonviewer.com/0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f) | EQDhnXQgjkymx2DgbcLZqvLClyBEsFAAr-RotkrXhf1OD3Gp
 [Anthill World](https://tonviewer.com/0:9c3737962aac1825bd53f9a2142e8cf4c42802741bb74a88dcbd501333e8d534) | EQCcNzeWKqwYJb1T-aIULoz0xCgCdBu3SojcvVATM-jVNBAZ
 [Ape by Ton](https://tonviewer.com/0:01056fee89f91332fbd1d0f1eadcda0d1c34c3a04812313a14f2869390ef8789) | EQABBW_uifkTMvvR0PHq3NoNHDTDoEgSMToU8oaTkO-Hif5A
@@ -148,6 +149,7 @@ Name           | Address
 [CARAT](https://tonviewer.com/0:f970ea1f187d4ba596e4ab15b6885f95084e52cca80fd4adc0071767c7a4ce83) | EQD5cOofGH1LpZbkqxW2iF-VCE5SzKgP1K3ABxdnx6TOg1u1
 [CARDIFY Coin](https://tonviewer.com/0:1dcf5e9a3d60a601895d4e25ff83e351cd3faca5b37cb4293d7492077c0882dc) | EQAdz16aPWCmAYldTiX_g-NRzT-spbN8tCk9dJIHfAiC3L4p
 [CAT LESHA](https://tonviewer.com/0:39f86edd8c5f3a91096ca6712ee112361cdfb382ef350dc13f6a9d32b80f387d) | EQA5-G7djF86kQlspnEu4RI2HN-zgu81DcE_ap0yuA84fa1x
+[CATA](https://tonviewer.com/0:61e1731a848f53f356e3d836c077ded92d00e81ccdabbf6539079f4355991537) | EQBh4XMahI9T81bj2DbAd97ZLQDoHM2rv2U5B59DVZkVN1pl
 [CATS](https://tonviewer.com/0:3702c84f115972f3043a9998a772b282fc290948a5eaaa3ca0d1532c56317f08) | EQA3AshPEVly8wQ6mZincrKC_CkJSKXqqjyg0VMsVjF_CATS
 [CAVIAR COIN](https://tonviewer.com/0:fa5b4ada0756860abf3aa5677bfa85a9037416d955c227db269587028642217e) | EQD6W0raB1aGCr86pWd7-oWpA3QW2VXCJ9smlYcChkIhflt2
 [CHADUROV](https://tonviewer.com/0:2e0c6dd9d15d3ca1a77ac10ccd2b44f5cc76d4fc763fe85b5e99d5ac109f5d1e) | EQAuDG3Z0V08oad6wQzNK0T1zHbU_HY_6FtemdWsEJ9dHr1M
