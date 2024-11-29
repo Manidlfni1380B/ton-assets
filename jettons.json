@@ -3960,6 +3960,11 @@
   "symbol": "TONR"
  },
  {
+  "address": "0:4c5ca453220098c6ac81841c77ddbd56750b720a73a28bb28d425fcfc3c67b3b",
+  "name": "TON SCAM",
+  "symbol": "TONSCAM"
+ },
+ {
   "address": "0:ae96a919594de8d4ae89b9462c6ab499782b5b69332c4b2a914075d208fe7830",
   "name": "TONY",
   "symbol": "TONY"
@@ -4128,6 +4133,11 @@
   "address": "0:dd0a16bf2be67dee52a5e7df4ed060c0b74a72d9952ea27b385ae7fce6daba35",
   "name": "Du Rove\u2019s Wall",
   "symbol": "WALL"
+ },
+ {
+  "address": "0:310bef9e2ad5dee3e7bd3e160eae4f9f8f1f14d769784f8204a739027f7162cd",
+  "name": "Watch Coin",
+  "symbol": "WCN"
  },
  {
   "address": "0:6d70be0903e3dd3e252407cbad1dca9d69fb665124ea74bf19d4479778f2ed8b",
